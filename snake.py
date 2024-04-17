@@ -5,6 +5,7 @@ pygame.init()
 screen=pygame.display.set_mode((600,450))
 pygame.display.set_caption("pygame SNAKE game")
 
+white
 blue =(0,0,255)
 red =(255,0,0)
 
